@@ -1,2 +1,1 @@
-# lawyer-react
-Ferrentino &amp; Associates
+React Artist Portfolio using Instagram API
