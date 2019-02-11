@@ -1,1 +1,3 @@
-React Artist Portfolio using Instagram API
+Lawyer Template made with React.
+
+
